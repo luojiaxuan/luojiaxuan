@@ -18,7 +18,7 @@ I am a **Research Engineer** specializing in **Reinforcement Learning (RL)**, **
 
 I bridge the gap between **SOTA Algorithms** and **High-Performance Systems**. My work focuses on aligning Audio/Speech Foundation Models using RL (GRPO) and optimizing inference throughput using kernel-level techniques (FlashInfer, vLLM).
 
-- 🎓 **Education:** M.S. in CS from **Johns Hopkins University**; Prev Research Intern at **CMU LTI**.
+- 🎓 **Education:** M.S. in CS from **Johns Hopkins University**; Currently Research Assistant at **CMU LTI**.
 - 🔭 **Currently working on:** Streaming Audio-Text RAG & Policy Optimization for Latency-Constrained Generation.
 - ⚡ **Core Philosophy:** Atomic commits, rigorous evaluation, and scalable infrastructure.
 
