@@ -46,7 +46,7 @@ I bridge the gap between **SOTA Algorithms** and **High-Performance Systems**. M
 - **Stack:** Ray, FlashInfer, CUDA, Python.
 
 #### 🛡️ [Is Vibe Coding Safe? Agent Vulnerability Benchmark]
-**Co-Author** | *Submitted to ICML 2026* | [arXiv:2512.03262](YOUR_ARXIV_LINK)
+**Co-Author** | *Submitted to ICML 2026* | [arXiv:2512.03262](https://arxiv.org/abs/2512.03262)
 - Benchmarked vulnerability scenarios for Agentic Code Generation.
 - Deployed **Kimi K2 (MoE)** using **vLLM with Tensor Parallelism**.
 
@@ -80,6 +80,6 @@ I bridge the gap between **SOTA Algorithms** and **High-Performance Systems**. M
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=luojiaxuan&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luojiaxuan&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
 </div>
