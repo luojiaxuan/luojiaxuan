@@ -69,7 +69,7 @@ I bridge the gap between **SOTA Algorithms** and **High-Performance Systems**. M
 
 ### 💼 Experience
 
-- **TikTok (San Jose)** | *ML Engineer Intern (GenAI & Post-Training)*
+- **TikTok (San Jose)** | *Machine Learning Engineer (GenAI & Post-Training)*
     - Engineered analytics pipeline using **DeepSeek R1 (70B)** with schema-aware CoT.
     - Optimized Multi-LoRA serving via Ray + vLLM.
 
