@@ -20,7 +20,6 @@ I bridge the gap between **SOTA Algorithms** and **High-Performance Systems**. M
 
 - 🎓 **Education:** M.S. in CS from **Johns Hopkins University**; Currently Research Assistant at **CMU LTI**.
 - 🔭 **Currently working on:** Streaming Audio-Text RAG & Policy Optimization for Latency-Constrained Generation.
-- ⚡ **Core Philosophy:** Atomic commits, rigorous evaluation, and scalable infrastructure.
 
 ---
 
