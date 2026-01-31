@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Jiaxuan (Hunter) Luo 👋
+# Hi there, I'm Jiaxuan (Jaxan) Luo 👋
 
 ### Building Scalable RL Systems & Multimodal Agents.
 
