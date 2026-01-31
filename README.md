@@ -2,7 +2,7 @@
 
 # Hi there, I'm Jiaxuan (Jaxan) Luo 👋
 
-### Building Scalable RL Systems & Multimodal Agents.
+### Streaming Speech Foundation Models | RL Alignment (GRPO) | System-Aware Inference
 
 *"My heart is in the work."* — Andrew Carnegie
 
