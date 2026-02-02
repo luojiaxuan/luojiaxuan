@@ -28,7 +28,7 @@ I bridge the gap between **SOTA Algorithms** and **High-Performance Systems**. M
 > **Note:** Code for papers under review will be released upon acceptance.
 
 #### 🎙️ [RASST: Cross-modal Retrieval-Augmented Speech Translation]
-**First Author** | *Submitted to ACL 2026*
+**First Author** | *Submitted to ACL 2026* | [arXiv:2601.22777](https://arxiv.org/abs/2601.22777)
 - Proposed a streaming Cross-modal RAG framework achieving **89.3% terminology accuracy** (+16.3% vs baselines).
 - Engineered a **policy-aware decoding strategy** to handle asynchronous retrieval, maintaining **1.7s StreamLAAL**.
 - **Stack:** PyTorch, FAISS, Cross-Modal Contrastive Learning.
