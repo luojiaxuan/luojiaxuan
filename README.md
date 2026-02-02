@@ -33,12 +33,6 @@ I bridge the gap between **SOTA Algorithms** and **High-Performance Systems**. M
 - Engineered a **policy-aware decoding strategy** to handle asynchronous retrieval, maintaining **1.7s StreamLAAL**.
 - **Stack:** PyTorch, FAISS, Cross-Modal Contrastive Learning.
 
-#### 🧠 [Hierarchical Policy Optimization (GRPO) for Speech]
-**Co-Developer** | *Submitted to ACL 2026*
-- Co-developed a streaming alignment framework based on **Group Relative Policy Optimization (GRPO)**.
-- Eliminated the Value Network to reduce memory usage by **40%** while stabilizing reward convergence.
-- **Stack:** RLHF, PPO/GRPO, DeepSpeed.
-
 #### ⚡ [High-Throughput Streaming Inference Engine]
 **Core Contributor** | *Built on InfiniSST (ACL 2025)*
 - Architected a custom inference engine on **Ray** with **Paged Attention via FlashInfer kernels**.
