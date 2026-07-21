@@ -19,7 +19,7 @@ Currently, I work on efficient TPU/GPU inference for autonomous-driving systems 
 - **2026.07** — Released [AutoTerm-SST](https://github.com/luojiaxuan/autoterm-sst), a zero-setup adaptive terminology memory for streaming speech translation, with a [live demo](https://luojiaxuan.github.io/autoterm-sst/) and [screencast](https://github.com/luojiaxuan/autoterm-sst/blob/main/docs/demo_screencast.mp4).
 - **2026.07** — Leading the [SGLang-Omni TTS runtime refactor](https://github.com/sgl-project/sglang-omni/issues/985), consolidating reusable scheduling, caching, engine construction, capability metadata, and vocoder infrastructure across model pipelines.
 - **2026.04** — [*Is Vibe Coding Safe?*](https://openreview.net/forum?id=qG8g00zRZa) was accepted to **ICML 2026**.
-- **2026.02** — Joined **Waymo** as a Machine Learning Engineer.
+- **2026.02** — Joined **Waymo (Alphabet)** as a Machine Learning Engineer.
 - **2026.01** — Released [RASST](https://arxiv.org/abs/2601.22777), combining multi-scale speech–text retrieval over partial audio with training that teaches a Speech LLM when to use terminology hints during simultaneous translation.
 - **2025.01** — Joined [Prof. Lei Li's](https://www.cs.cmu.edu/~leili/) lab at **CMU LTI** as a Research Assistant, working on streaming speech agents, retrieval, and reinforcement learning.
 
