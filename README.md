@@ -1,4 +1,4 @@
-I build **streaming multimodal systems**, with a focus on real-time speech/omni models, post-training, and high-performance inference.
+I build **streaming multimodal systems**, with a focus on real-time speech/omni models, post-training, and efficient inference optimization.
 
 **ML Engineer at Waymo (Alphabet)** · Core Contributor to [**SGLang-Omni**](https://github.com/sgl-project/sglang-omni)
 
