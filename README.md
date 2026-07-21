@@ -20,17 +20,6 @@ Today, I am:
 speech · vision · text → retrieval & memory → learning & reasoning → efficient runtime → real-time agents
 ```
 
-## Recent Activity
-
-<p align="center">
-  <strong>1,000+ GitHub contributions from May–July 2026</strong><br>
-  <sub>Across real-time multimodal serving, speech agents, research prototypes, and ML systems.</sub>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=luojiaxuan&amp;theme=react-dark&amp;hide_border=true&amp;area=true&amp;custom_title=Recent%20GitHub%20Activity" alt="Jaxan Luo's recent GitHub contribution activity" width="100%" />
-</p>
-
 ## News
 
 - **2026.07** — Released [AutoTerm-SST](https://github.com/luojiaxuan/autoterm-sst), a zero-setup adaptive terminology memory for streaming speech translation, with a [live demo](https://luojiaxuan.github.io/autoterm-sst/) and [screencast](https://github.com/luojiaxuan/autoterm-sst/blob/main/docs/demo_screencast.mp4).
