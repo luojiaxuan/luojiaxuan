@@ -20,7 +20,7 @@ Currently, I work on efficient TPU/GPU inference for autonomous-driving systems 
 - **2026.07** — Leading the [SGLang-Omni TTS runtime refactor](https://github.com/sgl-project/sglang-omni/issues/985), consolidating reusable scheduling, caching, engine construction, capability metadata, and vocoder infrastructure across model pipelines.
 - **2026.04** — [*Is Vibe Coding Safe?*](https://openreview.net/forum?id=qG8g00zRZa) was accepted to **ICML 2026**.
 - **2026.02** — Joined **Waymo** as a Machine Learning Engineer.
-- **2026.01** — Released [RASST](https://arxiv.org/abs/2601.22777), a retrieval-augmented framework for simultaneous speech translation.
+- **2026.01** — Released [RASST](https://arxiv.org/abs/2601.22777), combining multi-scale speech–text retrieval over partial audio with training that teaches a Speech LLM when to use terminology hints during simultaneous translation.
 - **2025.01** — Joined [Prof. Lei Li's](https://www.cs.cmu.edu/~leili/) lab at **CMU LTI** as a Research Assistant, working on streaming speech agents, retrieval, and reinforcement learning.
 
 ## Selected Work
@@ -28,7 +28,7 @@ Currently, I work on efficient TPU/GPU inference for autonomous-driving systems 
 | Project | What it explores |
 | --- | --- |
 | [**AutoTerm-SST**](https://github.com/luojiaxuan/autoterm-sst) · [Demo](https://luojiaxuan.github.io/autoterm-sst/) · [Video](https://github.com/luojiaxuan/autoterm-sst/blob/main/docs/demo_screencast.mp4) | Adaptive, budgeted terminology memory for streaming speech translation without per-session glossary setup. |
-| [**RASST**](https://arxiv.org/abs/2601.22777) | Cross-modal retrieval over partial speech, with chunk-level terminology hints for a streaming Speech LLM. |
+| [**RASST**](https://arxiv.org/abs/2601.22777) | Pairs lightweight multi-scale speech–text retrieval over partial audio with synthesized training that teaches a Speech LLM when to use terminology hints, improving terminology accuracy by nearly 40% and BLEU by up to 3 with negligible overhead. |
 | [**sst-rl-framework**](https://github.com/luojiaxuan/sst-rl-framework) · [HPO paper · ACL 2026 Oral](https://arxiv.org/abs/2604.21045) | Refactored the task-specific HPO/SST trainer into a reusable GRPO framework with modular rollout, rewards, typed adapters, and task plug-ins. |
 | [**High-Throughput Streaming Translation**](https://github.com/LeiLiLab/InfiniSST) · [Paper · ACL 2025 Findings](https://arxiv.org/abs/2503.02969) | Built a Ray + FlashInfer PagedAttention engine with dynamic KV-cache eviction, scaling unbounded-speech translation to 32 sessions/GPU with sub-200 ms serving overhead. |
 | [**SGLang-Omni**](https://github.com/sgl-project/sglang-omni) · [TTS refactor](https://github.com/sgl-project/sglang-omni/issues/985) · [Selected PRs](https://github.com/sgl-project/sglang-omni/pulls?q=is%3Apr+author%3Aluojiaxuan) | Mixed-chunk scheduling, tensor-parallel correctness, topology-aware collectives, and shared services for multimodal/TTS serving. |
