@@ -38,6 +38,7 @@ speech · vision · text → retrieval & memory → learning & reasoning → eff
 - **2026.04** — [*Is Vibe Coding Safe?*](https://openreview.net/forum?id=qG8g00zRZa) was accepted to **ICML 2026**.
 - **2026.02** — Joined **Waymo** as a Machine Learning Engineer.
 - **2026.01** — Released [RASST](https://arxiv.org/abs/2601.22777), a retrieval-augmented framework for simultaneous speech translation.
+- **2025.01** — Joined [Prof. Lei Li's](https://www.cs.cmu.edu/~leili/) lab at **CMU LTI** as a Research Assistant, working on streaming speech agents, retrieval, and reinforcement learning.
 
 ## Selected Work
 
