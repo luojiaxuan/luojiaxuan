@@ -8,13 +8,11 @@
   <a href="mailto:luojiaxuan1215@gmail.com">Email</a>
 </p>
 
-I build **real-time multimodal agents** and the systems that make them practical: streaming inference, retrieval and memory, post-training, scheduling, and accelerator-aware serving. I like working across the boundary between a research idea and the runtime that has to deliver it reliably.
+I'm a research engineer focused on **streaming multimodal systems**—real-time speech/omni models, post-training, and high-performance inference.
 
-Today, I am:
+I work across model and systems research: developing learning and agent capabilities for live multimodal streams, then making them run efficiently under tight latency, memory, and reliability constraints.
 
-- an ML Engineer at **Waymo**, working on efficient TPU/GPU inference optimization, with a focus on determinism, memory efficiency, and runtime performance;
-- a core contributor to [**SGLang-Omni**](https://github.com/sgl-project/sglang-omni), building real-time multimodal and TTS serving systems; and
-- a part-time Research Assistant at **Carnegie Mellon University's Language Technologies Institute**, advised by [Prof. Lei Li](https://www.cs.cmu.edu/~leili/), researching streaming speech agents, retrieval, and reinforcement learning.
+Currently, I work on efficient TPU/GPU inference for autonomous-driving systems at **Waymo** and contribute to [**SGLang-Omni**](https://github.com/sgl-project/sglang-omni) as a core contributor. Previously, I spent three years at **Alibaba** building large-scale recommendation systems and conducted research with [**Prof. Lei Li**](https://www.cs.cmu.edu/~leili/) at **CMU LTI** on streaming speech and multimodal agents.
 
 ## News
 
