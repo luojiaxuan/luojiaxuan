@@ -43,7 +43,7 @@ Currently, I work on efficient TPU/GPU inference for autonomous-driving systems 
 | 2026–present | **SGLang-Omni** · Core Contributor | Real-time multimodal inference and TTS runtime systems |
 | 2025–2026 | **CMU LTI** · Research Assistant | Streaming speech agents, retrieval, RL, and efficient inference |
 | 2025 | **TikTok** · Research Engineer Intern | Post-training and low-latency serving for reasoning agents |
-| 2021–2024 | **Alibaba Group** · Machine Learning Engineer II | Large-scale ranking, policy learning, and distributed inference |
+| 2021–2024 | **Alibaba Group** · Algorithm Engineer (MLE) | Large-scale ranking, policy learning, and distributed inference |
 
 I received an M.S. in Computer Science from **Johns Hopkins University** and a B.S. in Computer Science from **Central South University's Turing Honors Program**.
 
