@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-labelledby="title desc">
+  <title id="title">Jaxan Luo — Multimodal Research × ML Systems</title>
+  <desc id="desc">A systems-inspired banner showing multimodal inputs flowing through memory and runtime into real-time agents.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#07111f"/>
+      <stop offset="0.55" stop-color="#0d172a"/>
+      <stop offset="1" stop-color="#15132d"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#39d9d0"/>
+      <stop offset="1" stop-color="#8b7cff"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#ffffff" stroke-opacity="0.045" stroke-width="1"/>
+    </pattern>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1280" height="320" rx="24" fill="url(#background)"/>
+  <rect width="1280" height="320" rx="24" fill="url(#grid)"/>
+  <path d="M 0 286 C 250 250, 380 335, 640 285 S 1030 240, 1280 278" fill="none" stroke="url(#accent)" stroke-opacity="0.22" stroke-width="2"/>
+
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">
+    <text x="72" y="98" fill="#f4f7ff" font-size="56" font-weight="720" letter-spacing="1">JAXAN LUO</text>
+    <rect x="74" y="119" width="440" height="4" rx="2" fill="url(#accent)"/>
+    <text x="74" y="163" fill="#aebbd1" font-size="23" font-weight="600" letter-spacing="3">MULTIMODAL RESEARCH × ML SYSTEMS</text>
+    <text x="74" y="207" fill="#7f90aa" font-size="18">Building real-time agents from model to runtime.</text>
+
+    <g transform="translate(710 64)">
+      <path d="M 75 88 H 155 M 333 88 H 413" fill="none" stroke="#52627c" stroke-width="2" stroke-dasharray="5 7"/>
+      <circle cx="75" cy="88" r="4" fill="#39d9d0" filter="url(#glow)"/>
+      <circle cx="155" cy="88" r="4" fill="#39d9d0"/>
+      <circle cx="333" cy="88" r="4" fill="#8b7cff"/>
+      <circle cx="413" cy="88" r="4" fill="#8b7cff" filter="url(#glow)"/>
+
+      <g fill="#101e31" stroke="#30445f" stroke-width="1.5">
+        <rect x="0" y="42" width="80" height="92" rx="16"/>
+        <rect x="150" y="22" width="188" height="132" rx="20"/>
+        <rect x="408" y="42" width="112" height="92" rx="16"/>
+      </g>
+
+      <g fill="#9aabc3" font-size="11" font-weight="650" letter-spacing="1.5" text-anchor="middle">
+        <text x="40" y="67">INPUT</text>
+        <text x="244" y="49">AGENT CORE</text>
+        <text x="464" y="67">STREAM</text>
+      </g>
+
+      <g fill="none" stroke="#39d9d0" stroke-width="2" stroke-linecap="round">
+        <path d="M17 91 h6 l4 -12 7 27 7 -34 7 25 5 -15 5 9 h6"/>
+        <circle cx="31" cy="117" r="3"/>
+        <rect x="39" y="113" width="7" height="7" rx="1"/>
+        <path d="M52 120 l5 -8 5 8 z"/>
+      </g>
+
+      <g font-size="12" text-anchor="middle">
+        <rect x="169" y="67" width="68" height="30" rx="9" fill="#142a39" stroke="#275869"/>
+        <text x="203" y="87" fill="#6ce4de">MEMORY</text>
+        <rect x="251" y="67" width="68" height="30" rx="9" fill="#201e40" stroke="#4e477e"/>
+        <text x="285" y="87" fill="#afa4ff">POLICY</text>
+        <rect x="169" y="109" width="150" height="30" rx="9" fill="#171f36" stroke="#364668"/>
+        <text x="244" y="129" fill="#b8c4d9">EFFICIENT RUNTIME</text>
+      </g>
+
+      <g fill="none" stroke="url(#accent)" stroke-width="2.5" stroke-linecap="round">
+        <path d="M428 112 V89 h10 V101 h10 V78 h10 V96 h10 V72 h10 V91 h10 V82 h12"/>
+      </g>
+      <text x="464" y="120" fill="#7f90aa" font-size="10" font-weight="600" letter-spacing="1.2" text-anchor="middle">REAL TIME</text>
+    </g>
+  </g>
+</svg>
