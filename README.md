@@ -58,13 +58,6 @@ I received an M.S. in Security Informatics from **Johns Hopkins University** and
 - Songwen Zhao, Danqing Wang, Kexun Zhang, **Jiaxuan Luo**, Zhuo Li, and Lei Li. [**Is Vibe Coding Safe? Benchmarking Vulnerability of Agent-Generated Code in Real-World Tasks**](https://openreview.net/forum?id=qG8g00zRZa). ICML 2026.
 - **Jiaxuan Luo**, Siqi Ouyang, and Lei Li. [**AutoTerm-SST: Adaptive Terminology Memory with Zero Session-Time Setup for Streaming Speech Translation**](https://github.com/luojiaxuan/autoterm-sst). EMNLP 2026 System Demonstrations, under review.
 
-## Toolbox
-
-**Learning & retrieval:** GRPO · DPO · SFT · adaptive RAG · agent evaluation<br>
-**Inference systems:** SGLang · vLLM · Ray · FlashInfer · CUDA graphs · PagedAttention<br>
-**Distributed & accelerators:** PyTorch · CUDA/Triton · TP/DDP/FSDP · NCCL · GPU/TPU<br>
-**Languages:** Python · C++ · CUDA · SQL
-
 <p align="center">
   <sub>If you are working on real-time multimodal agents or efficient inference, I would love to compare notes.</sub>
 </p>
