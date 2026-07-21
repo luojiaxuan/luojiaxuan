@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.svg" alt="Jaxan Luo — Multimodal Research × ML Systems" width="100%" />
+  <img src="./assets/banner.svg" alt="Jiaxuan (Jaxan) Luo — Multimodal Research × ML Systems" width="100%" />
 </p>
 
 <p align="center">
