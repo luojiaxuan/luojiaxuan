@@ -16,10 +16,6 @@ Today, I am:
 - a core contributor to [**SGLang-Omni**](https://github.com/sgl-project/sglang-omni), building real-time multimodal and TTS serving systems; and
 - a part-time Research Assistant at **Carnegie Mellon University's Language Technologies Institute**, advised by [Prof. Lei Li](https://www.cs.cmu.edu/~leili/), researching streaming speech agents, retrieval, and reinforcement learning.
 
-```text
-speech · vision · text → retrieval & memory → learning & reasoning → efficient runtime → real-time agents
-```
-
 ## News
 
 - **2026.07** — Released [AutoTerm-SST](https://github.com/luojiaxuan/autoterm-sst), a zero-setup adaptive terminology memory for streaming speech translation, with a [live demo](https://luojiaxuan.github.io/autoterm-sst/) and [screencast](https://github.com/luojiaxuan/autoterm-sst/blob/main/docs/demo_screencast.mp4).
