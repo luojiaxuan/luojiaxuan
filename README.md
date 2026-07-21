@@ -3,6 +3,7 @@
 </p>
 
 <p align="center">
+  <a href="https://luojiaxuan.github.io">Personal Website</a> ·
   <a href="https://scholar.google.com/citations?user=bdstD5kAAAAJ&hl=en">Google Scholar</a> ·
   <a href="https://www.linkedin.com/in/jiaxuanluo/">LinkedIn</a> ·
   <a href="mailto:luojiaxuan1215@gmail.com">Email</a>
@@ -12,7 +13,7 @@ I'm a research engineer focused on **streaming multimodal systems**—real-time 
 
 I work across model and systems research: developing learning and agent capabilities for live multimodal streams, then making them run efficiently under tight latency, memory, and reliability constraints.
 
-Currently, I work on efficient TPU/GPU inference for autonomous-driving systems at **Waymo** and contribute to [**SGLang-Omni**](https://github.com/sgl-project/sglang-omni) as a core contributor. Previously, I spent three years at **Alibaba** building large-scale recommendation systems and conducted research with [**Prof. Lei Li**](https://www.cs.cmu.edu/~leili/) at **CMU LTI** on streaming speech and multimodal agents.
+Currently, I work on efficient TPU/GPU inference for autonomous-driving systems at **Waymo (Alphabet)** and contribute to [**SGLang-Omni**](https://github.com/sgl-project/sglang-omni) as a core contributor. Previously, I spent three years at **Alibaba** building large-scale recommendation systems and conducted research with [**Prof. Lei Li**](https://www.cs.cmu.edu/~leili/) at **CMU LTI** on streaming speech and multimodal agents.
 
 ## News
 
@@ -38,9 +39,9 @@ Currently, I work on efficient TPU/GPU inference for autonomous-driving systems 
 
 | When | Where | Focus |
 | --- | --- | --- |
-| 2026–present | **Waymo** · Machine Learning Engineer | Efficient TPU/GPU inference, determinism, and memory-aware serving |
+| 2026–present | **Waymo (Alphabet)** · Machine Learning Engineer | Efficient TPU/GPU inference, determinism, and memory-aware serving |
 | 2026–present | **SGLang-Omni** · Core Contributor | Real-time multimodal inference and TTS runtime systems |
-| 2025–present | **CMU LTI** · Research Assistant | Streaming speech agents, retrieval, RL, and efficient inference |
+| 2025–2026 | **CMU LTI** · Research Assistant | Streaming speech agents, retrieval, RL, and efficient inference |
 | 2025 | **TikTok** · Research Engineer Intern | Post-training and low-latency serving for reasoning agents |
 | 2021–2024 | **Alibaba Group** · Machine Learning Engineer II | Large-scale ranking, policy learning, and distributed inference |
 
